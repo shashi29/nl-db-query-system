@@ -1,0 +1,37 @@
+# OpenAI
+openai>=1.0.0
+
+# MongoDB
+pymongo>=4.5.0
+
+# ClickHouse
+clickhouse-driver>=0.2.5
+
+# Async support
+aiohttp>=3.8.4
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Command-line interface
+click>=8.1.3
+
+# API
+fastapi>=0.100.0
+uvicorn>=0.23.2
+
+# Testing
+pytest>=7.3.1
+pytest-asyncio>=0.21.0
+
+# Logging
+loguru>=0.7.0
+
+# Data manipulation
+pandas>=2.0.0
+
+# Caching
+redis>=4.6.0
+
+# Typing
+pydantic>=2.0.0
